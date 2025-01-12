@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/StudyBuddyAPI/Data/studyfields.dlww6eu7kq.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\studyfields.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dlww6eu7kq"},{"Name":"integrity","Value":"sha256-Acu5sQ2uN4ArTa2\u002BGeTbmJan1ClVliJfWZt3lH51Vpg="},{"Name":"label","Value":"_content/StudyBuddyAPI/Data/studyfields.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3725"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022Acu5sQ2uN4ArTa2\u002BGeTbmJan1ClVliJfWZt3lH51Vpg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 12 Jan 2025 10:00:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StudyBuddyAPI/Data/studyfields.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\studyfields.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Acu5sQ2uN4ArTa2\u002BGeTbmJan1ClVliJfWZt3lH51Vpg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3725"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022Acu5sQ2uN4ArTa2\u002BGeTbmJan1ClVliJfWZt3lH51Vpg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 12 Jan 2025 10:00:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

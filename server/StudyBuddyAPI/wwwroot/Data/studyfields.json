@@ -1,0 +1,270 @@
+[
+  {
+    "Id": 2,
+    "Name": "Mathematics"
+  },
+  {
+    "Id": 3,
+    "Name": "Computer Science"
+  },
+  {
+    "Id": 4,
+    "Name": "Physics"
+  },
+  {
+    "Id": 5,
+    "Name": "Chemistry"
+  },
+  {
+    "Id": 6,
+    "Name": "Biology"
+  },
+  {
+    "Id": 7,
+    "Name": "Economics"
+  },
+  {
+    "Id": 8,
+    "Name": "Psychology"
+  },
+  {
+    "Id": 9,
+    "Name": "Sociology"
+  },
+  {
+    "Id": 10,
+    "Name": "History"
+  },
+  {
+    "Id": 11,
+    "Name": "Philosophy"
+  },
+  {
+    "Id": 12,
+    "Name": "Engineering"
+  },
+  {
+    "Id": 13,
+    "Name": "Electrical Engineering"
+  },
+  {
+    "Id": 14,
+    "Name": "Mechanical Engineering"
+  },
+  {
+    "Id": 15,
+    "Name": "Civil Engineering"
+  },
+  {
+    "Id": 16,
+    "Name": "Biomedical Engineering"
+  },
+  {
+    "Id": 17,
+    "Name": "Business Administration"
+  },
+  {
+    "Id": 18,
+    "Name": "Marketing"
+  },
+  {
+    "Id": 19,
+    "Name": "Accounting"
+  },
+  {
+    "Id": 20,
+    "Name": "Finance"
+  },
+  {
+    "Id": 21,
+    "Name": "Law"
+  },
+  {
+    "Id": 22,
+    "Name": "Political Science"
+  },
+  {
+    "Id": 23,
+    "Name": "Art History"
+  },
+  {
+    "Id": 24,
+    "Name": "Music"
+  },
+  {
+    "Id": 25,
+    "Name": "Theater"
+  },
+  {
+    "Id": 26,
+    "Name": "Film Studies"
+  },
+  {
+    "Id": 27,
+    "Name": "Architecture"
+  },
+  {
+    "Id": 28,
+    "Name": "Environmental Science"
+  },
+  {
+    "Id": 29,
+    "Name": "Education"
+  },
+  {
+    "Id": 30,
+    "Name": "Medicine"
+  },
+  {
+    "Id": 31,
+    "Name": "Dentistry"
+  },
+  {
+    "Id": 32,
+    "Name": "Nursing"
+  },
+  {
+    "Id": 33,
+    "Name": "Public Health"
+  },
+  {
+    "Id": 34,
+    "Name": "Anthropology"
+  },
+  {
+    "Id": 35,
+    "Name": "Linguistics"
+  },
+  {
+    "Id": 36,
+    "Name": "Geography"
+  },
+  {
+    "Id": 37,
+    "Name": "Astronomy"
+  },
+  {
+    "Id": 38,
+    "Name": "Statistics"
+  },
+  {
+    "Id": 39,
+    "Name": "Information Systems"
+  },
+  {
+    "Id": 40,
+    "Name": "Data Science"
+  },
+  {
+    "Id": 41,
+    "Name": "Artificial Intelligence"
+  },
+  {
+    "Id": 42,
+    "Name": "Cybersecurity"
+  },
+  {
+    "Id": 43,
+    "Name": "Game Design"
+  },
+  {
+    "Id": 44,
+    "Name": "Graphic Design"
+  },
+  {
+    "Id": 45,
+    "Name": "Fashion Design"
+  },
+  {
+    "Id": 46,
+    "Name": "Agricultural Science"
+  },
+  {
+    "Id": 47,
+    "Name": "Veterinary Medicine"
+  },
+  {
+    "Id": 48,
+    "Name": "Food Science"
+  },
+  {
+    "Id": 49,
+    "Name": "Marine Biology"
+  },
+  {
+    "Id": 50,
+    "Name": "Journalism"
+  },
+  {
+    "Id": 51,
+    "Name": "Communication Studies"
+  },
+  {
+    "Id": 52,
+    "Name": "Religious Studies"
+  },
+  {
+    "Id": 53,
+    "Name": "Ethics"
+  },
+  {
+    "Id": 54,
+    "Name": "Classical Studies"
+  },
+  {
+    "Id": 55,
+    "Name": "Sports Science"
+  },
+  {
+    "Id": 56,
+    "Name": "Physical Education"
+  },
+  {
+    "Id": 57,
+    "Name": "Cyber Security Specialist"
+  },
+  {
+    "Id": 58,
+    "Name": "Full Stack Development"
+  },
+  {
+    "Id": 59,
+    "Name": "UI\/UX Design"
+  },
+  {
+    "Id": 60,
+    "Name": "Network Management"
+  },
+  {
+    "Id": 61,
+    "Name": "DevOps Engineering"
+  },
+  {
+    "Id": 62,
+    "Name": "Digital Marketing"
+  },
+  {
+    "Id": 63,
+    "Name": "Penetration Testing"
+  },
+  {
+    "Id": 64,
+    "Name": "Cloud Computing"
+  },
+  {
+    "Id": 65,
+    "Name": "Mobile App Development"
+  },
+  {
+    "Id": 66,
+    "Name": "Computer Science"
+  },
+  {
+    "Id": 67,
+    "Name": "Computer Science"
+  },
+  {
+    "Id": 68,
+    "Name": "Computer Science"
+  }
+]

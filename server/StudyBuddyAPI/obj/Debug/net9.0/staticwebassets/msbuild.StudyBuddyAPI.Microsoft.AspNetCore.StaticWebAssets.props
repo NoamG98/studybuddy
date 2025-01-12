@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\studyfields.json'))">
+      <SourceType>Package</SourceType>
+      <SourceId>StudyBuddyAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/StudyBuddyAPI</BasePath>
+      <RelativePath>Data/studyfields.json</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dlww6eu7kq</Fingerprint>
+      <Integrity>Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Data\studyfields.json'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

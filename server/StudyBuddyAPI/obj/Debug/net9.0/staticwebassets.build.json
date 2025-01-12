@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "Lgr33rpUIYoXfOpvwjEbK7e59YE6W7IcgzwJXL6bDXs=",
+  "Source": "StudyBuddyAPI",
+  "BasePath": "_content/StudyBuddyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StudyBuddyAPI\\wwwroot",
+      "Source": "StudyBuddyAPI",
+      "ContentRoot": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\wwwroot\\",
+      "BasePath": "_content/StudyBuddyAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\obj\\Debug\\net9.0\\compressed\\by319ibqen-dlww6eu7kq.gz",
+      "SourceId": "StudyBuddyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/StudyBuddyAPI",
+      "RelativePath": "Data/studyfields#[.{fingerprint=dlww6eu7kq}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\wwwroot\\Data\\studyfields.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zqahkdekbt",
+      "Integrity": "qxi2tBoXfJRO43It7hTk0lMeBtjMLSZQ6eUW+dZADwM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\wwwroot\\Data\\studyfields.json"
+    },
+    {
+      "Identity": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\wwwroot\\Data\\studyfields.json",
+      "SourceId": "StudyBuddyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\wwwroot\\",
+      "BasePath": "_content/StudyBuddyAPI",
+      "RelativePath": "Data/studyfields#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dlww6eu7kq",
+      "Integrity": "Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Data\\studyfields.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Data/studyfields.dlww6eu7kq.json",
+      "AssetFile": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\obj\\Debug\\net9.0\\compressed\\by319ibqen-dlww6eu7kq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001291989664"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "773"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxi2tBoXfJRO43It7hTk0lMeBtjMLSZQ6eUW+dZADwM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 10:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dlww6eu7kq"
+        },
+        {
+          "Name": "label",
+          "Value": "Data/studyfields.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg="
+        }
+      ]
+    },
+    {
+      "Route": "Data/studyfields.dlww6eu7kq.json",
+      "AssetFile": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\wwwroot\\Data\\studyfields.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 10:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dlww6eu7kq"
+        },
+        {
+          "Name": "label",
+          "Value": "Data/studyfields.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg="
+        }
+      ]
+    },
+    {
+      "Route": "Data/studyfields.dlww6eu7kq.json.gz",
+      "AssetFile": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\obj\\Debug\\net9.0\\compressed\\by319ibqen-dlww6eu7kq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxi2tBoXfJRO43It7hTk0lMeBtjMLSZQ6eUW+dZADwM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 10:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dlww6eu7kq"
+        },
+        {
+          "Name": "label",
+          "Value": "Data/studyfields.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qxi2tBoXfJRO43It7hTk0lMeBtjMLSZQ6eUW+dZADwM="
+        }
+      ]
+    },
+    {
+      "Route": "Data/studyfields.json",
+      "AssetFile": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\obj\\Debug\\net9.0\\compressed\\by319ibqen-dlww6eu7kq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001291989664"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "773"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxi2tBoXfJRO43It7hTk0lMeBtjMLSZQ6eUW+dZADwM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 10:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg="
+        }
+      ]
+    },
+    {
+      "Route": "Data/studyfields.json",
+      "AssetFile": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\wwwroot\\Data\\studyfields.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 10:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Acu5sQ2uN4ArTa2+GeTbmJan1ClVliJfWZt3lH51Vpg="
+        }
+      ]
+    },
+    {
+      "Route": "Data/studyfields.json.gz",
+      "AssetFile": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\obj\\Debug\\net9.0\\compressed\\by319ibqen-dlww6eu7kq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxi2tBoXfJRO43It7hTk0lMeBtjMLSZQ6eUW+dZADwM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 10:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qxi2tBoXfJRO43It7hTk0lMeBtjMLSZQ6eUW+dZADwM="
+        }
+      ]
+    }
+  ]
+}

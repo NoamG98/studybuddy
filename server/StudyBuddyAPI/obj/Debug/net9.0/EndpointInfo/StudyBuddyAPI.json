@@ -1,0 +1,308 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "StudyBuddyAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Posts": {
+      "post": {
+        "tags": [
+          "Posts"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Post"
+              }
+            },
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Post"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Post"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Post"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/StudyFields": {
+      "get": {
+        "tags": [
+          "StudyFields"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Users/register": {
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserDto"
+              }
+            },
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Post": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "author": {
+            "type": "string",
+            "nullable": true
+          },
+          "content": {
+            "type": "string",
+            "nullable": true
+          },
+          "userEmail": {
+            "type": "string",
+            "nullable": true
+          },
+          "user": {
+            "$ref": "#/components/schemas/User"
+          }
+        },
+        "additionalProperties": false
+      },
+      "StudyField": {
+        "required": [
+          "name"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "userStudyFields": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/UserStudyField"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "User": {
+        "required": [
+          "birthDate",
+          "country",
+          "email",
+          "firstName",
+          "lastName",
+          "passwordHash"
+        ],
+        "type": "object",
+        "properties": {
+          "firstName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "lastName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "passwordHash": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "userStudyFields": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/UserStudyField"
+            },
+            "nullable": true
+          },
+          "country": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "birthDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "createdAt": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserDto": {
+        "type": "object",
+        "properties": {
+          "firstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "birthDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "country": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserStudyField": {
+        "type": "object",
+        "properties": {
+          "userEmail": {
+            "type": "string",
+            "nullable": true
+          },
+          "user": {
+            "$ref": "#/components/schemas/User"
+          },
+          "studyFieldId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "studyField": {
+            "$ref": "#/components/schemas/StudyField"
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

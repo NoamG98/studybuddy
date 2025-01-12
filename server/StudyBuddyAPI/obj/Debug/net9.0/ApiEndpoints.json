@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "StudyBuddyAPI.Controllers.PostsController",
+    "Method": "CreatePost",
+    "RelativePath": "api/Posts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "post",
+        "Type": "Post",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudyBuddyAPI.Controllers.StudyFieldsController",
+    "Method": "GetStudyFields",
+    "RelativePath": "api/StudyFields",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudyBuddyAPI.Controllers.UsersController",
+    "Method": "Register",
+    "RelativePath": "api/Users/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "StudyBuddyAPI.Controllers.UsersController\u002BUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudyBuddyAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[StudyBuddyAPI.WeatherForecast, StudyBuddyAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

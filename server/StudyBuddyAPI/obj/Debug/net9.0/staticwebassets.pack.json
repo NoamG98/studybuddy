@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\noam1\\studybuddy\\server\\StudyBuddyAPI\\wwwroot\\Data\\studyfields.json",
+      "PackagePath": "staticwebassets\\Data\\studyfields.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StudyBuddyAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StudyBuddyAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.StudyBuddyAPI.props",
+      "PackagePath": "build\\StudyBuddyAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.StudyBuddyAPI.props",
+      "PackagePath": "buildMultiTargeting\\StudyBuddyAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.StudyBuddyAPI.props",
+      "PackagePath": "buildTransitive\\StudyBuddyAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
