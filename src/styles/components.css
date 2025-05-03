@@ -1,0 +1,43 @@
+@tailwind components;
+
+@layer components {
+  .form-container {
+    @apply w-full max-w-md mx-auto;
+  }
+
+  .form-field {
+    @apply mb-4;
+  }
+
+  .form-label {
+    @apply block mb-2 font-medium;
+  }
+
+  .form-input {
+    @apply w-full p-3 border border-input rounded-md;
+  }
+
+  .form-button {
+    @apply w-full py-3 bg-primary text-primary-foreground font-medium rounded-md hover:bg-primary/90 disabled:bg-muted;
+  }
+
+  .page-container {
+    @apply min-h-screen flex flex-col;
+  }
+
+  .page-content {
+    @apply flex-1 pt-16 bg-background;
+  }
+
+  .section-container {
+    @apply container mx-auto px-4 py-8;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-lg hover:-translate-y-1;
+  }
+
+  .glass-effect {
+    @apply bg-white/70 dark:bg-black/70 backdrop-blur-md border border-white/20 dark:border-white/10 shadow-lg;
+  }
+}

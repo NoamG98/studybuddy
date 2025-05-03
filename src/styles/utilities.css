@@ -1,0 +1,11 @@
+@tailwind utilities;
+
+@layer utilities {
+  .animate-in-view {
+    @apply opacity-0 translate-y-5 transition-all duration-500 ease-out;
+  }
+
+  .animate-in-view.in-view {
+    @apply opacity-100 translate-y-0;
+  }
+}

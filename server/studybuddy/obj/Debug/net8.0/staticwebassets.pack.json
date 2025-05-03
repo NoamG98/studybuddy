@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\noam1\\OneDrive\\שולחן העבודה\\Project\\studybuddy\\wwwroot\\uploads\\4958b817-6e16-4f89-a6c5-b18848fb97e8.png",
+      "PackagePath": "staticwebassets\\uploads\\4958b817-6e16-4f89-a6c5-b18848fb97e8.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.studybuddy.props",
+      "PackagePath": "build\\studybuddy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.studybuddy.props",
+      "PackagePath": "buildMultiTargeting\\studybuddy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.studybuddy.props",
+      "PackagePath": "buildTransitive\\studybuddy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.studybuddy.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.studybuddy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
