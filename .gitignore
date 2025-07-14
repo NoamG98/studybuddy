@@ -1,4 +1,4 @@
-# Logs
+# === LOG FILES ===
 logs
 *.log
 npm-debug.log*
@@ -7,18 +7,61 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# === DEPENDENCIES & OUTPUT ===
+node_modules/
+dist/
+dist-ssr/
 *.local
 
-# Editor directories and files
-.vscode/*
+# === USER & EDITOR FILES ===
+.vscode/
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
+*.user
+*.userosscache
+*.sln.docstates
 *.ntvs*
 *.njsproj
-*.sln
+
 *.sw?
+
+# === VISUAL STUDIO BUILD ===
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.vsidx
+*.FileListAbsolute.txt
+*.GeneratedMSBuildEditorConfig.editorconfig
+
+# === VS & .NET SPECIFIC ===
+.vs/
+*.db
+*.db-shm
+*.db-wal
+
+# === ASP.NET STATIC FILES ===
+**/wwwroot/**/*.json
+**/wwwroot/**/*.map
+**/wwwroot/**/*.gz
+**/wwwroot/**/*.br
+**/wwwroot/**/*.bundle.*
+
+# === SYSTEM & TEMP FILES ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.tmp
+*.bak
+
+# === DOTNET CORE ===
+project.lock.json
+project.fragment.lock.json
+*.nupkg
+*.snupkg
+*.tsbuildinfo
