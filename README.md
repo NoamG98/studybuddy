@@ -1,10 +1,8 @@
 # StudyBuddy Connect & Careers
 
-StudyBuddy is a full-stack web application built with **React/TypeScript**, **Tailwind CSS**, and **.NET Core**. It allows students, graduates, and employers to connect, share posts, and manage friend requests and job opportunities.
+**StudyBuddy** is a full-stack web application built with **React/TypeScript**, **Tailwind CSS**, and **.NET 7 Web API**. It enables students, graduates, and employers to connect, share posts, manage friendships, and browse job opportunities in a real-time collaborative environment.
 
----
-
-## Table of Contents
+## 📚 Table of Contents
 
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
@@ -12,114 +10,131 @@ StudyBuddy is a full-stack web application built with **React/TypeScript**, **Ta
 - [Setup & Installation](#setup--installation)  
 - [Database & Migrations](#database--migrations)  
 - [Running the Project](#running-the-project)  
+- [Common Issues](#common-issues)  
 - [Scripts](#scripts)  
 - [Environment Configuration](#environment-configuration)  
 - [Contributing](#contributing)  
 - [About](#about)  
 
----
+## 🚀 Features
 
-## Features
+- Secure authentication with JWT  
+- Role-based user profiles (Student / Employer / Admin)  
+- Real-time notifications with SignalR  
+- Friend request system (send, accept, reject)  
+- Create, comment, and like posts  
+- Browse job listings with advanced filters  
+- Responsive design with light/dark mode support  
 
-- User authentication & role-based profiles  
-- Friend requests (send, accept, reject)  
-- Real-time notifications via SignalR  
-- Create, edit, delete posts with comments & likes  
-- Job listings & search filters  
-- Dark/light theme toggle  
-
-## Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend**: React, TypeScript, Vite, Tailwind CSS  
-- **Backend**: .NET 7 Web API, EF Core, SQL Server  
+- **Backend**: ASP.NET Core 7, Entity Framework Core, SQL Server  
 - **Real-time**: SignalR  
-- **Other Tools**: Axios, React Query, Sonner (toasts)  
+- **Other Tools**: Axios, React Query, Sonner (toast notifications)  
 
-## Prerequisites
+## ✅ Prerequisites
 
-- **Node.js** ≥ 18 & **npm**  
+Before you start, make sure you have:
+
+- **Node.js** ≥ 18  
 - **.NET 7 SDK**  
-- **SQL Server** (LocalDB or full SQL Server)  
-- **Visual Studio 2022** (backend)  
-- **VS Code** (frontend)  
+- **SQL Server** (LocalDB or full version)  
+- **Visual Studio 2022** (for backend)  
+- **VS Code** (for frontend)  
+- **Git**
 
 Optional:
 
-- **Git**  
-- **Postman**  
-- **ESLint**, **Prettier**  
+- Postman  
+- ESLint / Prettier  
 
-## Setup & Installation
+## ⚙️ Setup & Installation
 
-1. Clone the repo:  
-   ```bash
-+ git clone https://github.com/NoamG98/studybuddy.git
-+ cd studybuddy
-   ```
+1. Clone the repository:
+```bash
+git clone https://github.com/NoamG98/studybuddy.git
+cd studybuddy
+```
 
-2. Install frontend dependencies:  
-   ```bash
-   cd client
-   npm install
-   ```
+2. Install frontend dependencies:
+```bash
+cd client
+npm install
+```
 
-3. Install backend dependencies:  
-   ```bash
-   cd ../server
-   dotnet restore
-   ```
+3. Install backend dependencies:
+```bash
+cd ../server
+dotnet restore
+```
 
-## Database & Migrations
+## 🗄️ Database & Migrations
 
-1. Configure the connection string in `server/appsettings.json` or as env var `ConnectionStrings__DefaultConnection`:
-   ```json
-   "ConnectionStrings": {
-     "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=StudyBuddyDb;Trusted_Connection=True;"
-   }
-   ```
+1. In `server/appsettings.json`, ensure your connection string is correctly set:
+```json
+"ConnectionStrings": {
+  "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=StudyBuddyDb;Trusted_Connection=True;"
+}
+```
+
 2. Apply EF Core migrations:
-   ```bash
-   cd server
-   dotnet ef database update
-   ```
+```bash
+cd server
+dotnet ef database update
+```
 
-## Running the Project
+## ▶️ Running the Project
 
-From the project root, run:
+From the root of the project directory:
 ```bash
 npm run dev
 ```
-- **Client**: http://localhost:8080  
-- **Server**: http://localhost:5001  
 
-## Scripts
+- Frontend: http://localhost:8080  
+- Backend: http://localhost:5001  
+
+## 🧯 Common Issues
+
+- ❗️ If the project fails to load in Visual Studio:  
+  Make sure the `.sln` file is placed under `server/studybuddy/` and not referencing absolute paths.  
+
+- ❗️ If migrations don’t apply:  
+  Double-check your SQL Server instance and make sure the connection string matches your local environment.
+
+- ❗️ Ensure ports 5000/5001 are not blocked by firewalls or other apps.
+
+## 🧪 Scripts
 
 ```bash
-npm run dev       # start both client & server
-npm run client    # frontend only
-npm run server    # backend only
-npm run build     # build frontend
-npm run lint      # run ESLint
+npm run dev       # Start both client & server concurrently
+npm run client    # Run frontend only
+npm run server    # Run backend only
+npm run build     # Build frontend
+npm run lint      # Run ESLint
 ```
 
-## Environment Configuration
+## 🌍 Environment Configuration
 
-- **Backend**: `server/appsettings.json` (`ConnectionStrings:DefaultConnection`, JWT settings)  
-- **Frontend**: `client/.env` (`VITE_API_BASE_URL=https://localhost:5001/api`)
+- **Backend**: `server/appsettings.json` (`ConnectionStrings:DefaultConnection`, JWT, Email settings)  
+- **Frontend**: `client/.env`  
+  ```env
+  VITE_API_BASE_URL=https://localhost:5001/api
+  ```
 
-## Contributing
+## 🤝 Contributing
 
-1. Fork  
-2. Create branch: `git checkout -b feature/YourFeature`  
-3. Make changes & commit  
-4. Push & PR  
+1. Fork the repository  
+2. Create a new branch: `git checkout -b feature/YourFeature`  
+3. Commit your changes  
+4. Push and open a pull request  
 
-## About
+## 👨‍💻 About
 
-Developed by **Noam Gedalyahu.** with help from **ChatGPT**.  
-- Frontend: VS Code  
-- Backend: Visual Studio 2022  
-- Database: SQL Server / LocalDB  
+Developed by **Noam Gedalyahu**   
+- Frontend: Visual Studio Code  
+- Backend: Visual Studio 2022  
+- Database: SQL Server / LocalDB  
 
 ---
 
