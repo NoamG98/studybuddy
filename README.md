@@ -53,8 +53,8 @@ Optional:
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/YourUsername/studybuddy-connect-careers.git
-   cd studybuddy-connect-careers-main
++ git clone https://github.com/NoamG98/studybuddy.git
++ cd studybuddy
    ```
 
 2. Install frontend dependencies:  
