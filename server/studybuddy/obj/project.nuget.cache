@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9qzQGKSIGZk=",
+  "dgSpecHash": "iMi+YDSvV3A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\noam1\\Downloads\\studybuddy-connect-careers-main\\server\\studybuddy\\studybuddy.csproj",
+  "projectFilePath": "C:\\Users\\noam1\\OneDrive\\שולחן העבודה\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\studybuddy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noam1\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\noam1\\.nuget\\packages\\automapper.collection\\11.0.0\\automapper.collection.11.0.0.nupkg.sha512",

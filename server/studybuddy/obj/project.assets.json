@@ -5000,11 +5000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noam1\\Downloads\\studybuddy-connect-careers-main\\server\\studybuddy\\studybuddy.csproj",
+      "projectUniqueName": "C:\\Users\\noam1\\OneDrive\\שולחן העבודה\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\studybuddy.csproj",
       "projectName": "studybuddy",
-      "projectPath": "C:\\Users\\noam1\\Downloads\\studybuddy-connect-careers-main\\server\\studybuddy\\studybuddy.csproj",
+      "projectPath": "C:\\Users\\noam1\\OneDrive\\שולחן העבודה\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\studybuddy.csproj",
       "packagesPath": "C:\\Users\\noam1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noam1\\Downloads\\studybuddy-connect-careers-main\\server\\studybuddy\\obj\\",
+      "outputPath": "C:\\Users\\noam1\\OneDrive\\שולחן העבודה\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

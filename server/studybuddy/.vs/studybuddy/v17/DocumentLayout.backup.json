@@ -1,266 +1,282 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\",
+  "WorkspaceRootPath": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\models\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:models\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Helpers\\JwtHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\JwtHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Helpers\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\friendrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\friendrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\friendrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\friendrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Data\\DbSeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\DbSeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\ifriendrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\ifriendrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\FriendRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\FriendRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\FriendRequestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\FriendRequestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\friendrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\friendrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IFriendRequestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\IFriendRequestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\ifriendrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\ifriendrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\FriendRequestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\FriendRequestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\jobmatchingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\jobmatchingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\friendrequest\\friendrequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\friendrequest\\friendrequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\friendrequest\\friendrequestcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\friendrequest\\friendrequestcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\PostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\PostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Hubs\\NotificationHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hubs\\NotificationHub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\user\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\user\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\FriendRequestRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\FriendRequestRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\user\\usercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\user\\usercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IFriendRequestRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IFriendRequestRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\JobMatchingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\JobMatchingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\FriendRequest\\FriendRequestResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\FriendRequest\\FriendRequestResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\FriendRequest\\FriendRequestCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\FriendRequest\\FriendRequestCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\User\\UpdateUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\User\\UpdateUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\post\\postcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\post\\postcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\User\\UserCreateRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\User\\UserCreateRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\post\\postresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\post\\postresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Post\\PostCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Post\\PostCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\PostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\PostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\post\\postupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\post\\postupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Post\\PostResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Post\\PostResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IPostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IPostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\PostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\PostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IPostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\IPostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\auth\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\auth\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Post\\PostUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Post\\PostUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Auth\\RefreshTokenRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Auth\\RefreshTokenRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\comment\\commentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\comment\\commentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Comment\\CommentResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Comment\\CommentResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Auth\\AuthResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Auth\\AuthResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\ServiceResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ServiceResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Settings\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Settings\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\ilikeservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\ilikeservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\ILikeServicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ILikeServicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:models\\community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IActivityRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IActivityRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\ICommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ICommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\comment\\commentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\comment\\commentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\LikeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\LikeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\studybuddy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:studybuddy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\CommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\CommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\studyfieldscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\studyfieldscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\mentorshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\mentorshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Comment\\CommentCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Comment\\CommentCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Community.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\studybuddy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:studybuddy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\StudyFieldsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\StudyFieldsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\MentorshipController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\MentorshipController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\LeaderboardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\LeaderboardController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\CountriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CountriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\imentorshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\imentorshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\ChatController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ChatController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\mentorshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\mentorshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\ActivityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ActivityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\LikeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\LikeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\settings\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:settings\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\JobsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\JobsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IMentorshipService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\IMentorshipService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\models\\studyfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:models\\studyfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\MentorshipService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\MentorshipService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|c:\\users\\noam1\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\project\\studybuddy\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85BE2B9B-AB17-472A-905D-726BF7F72AAF}|studybuddy.csproj|solutionrelative:services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\ChatRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\ChatRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Settings\\DatabaseSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Settings\\DatabaseSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\StudyField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\StudyField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Auth\\RegisterRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\Auth\\RegisterRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\ActivityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ActivityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -270,7 +286,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -282,76 +298,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FriendRequestController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\FriendRequestController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FriendRequestController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\FriendRequestController.cs",
-              "RelativeToolTip": "Controllers\\FriendRequestController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAowEcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Helpers\\EmailService.cs",
+              "RelativeDocumentMoniker": "Helpers\\EmailService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Helpers\\EmailService.cs",
+              "RelativeToolTip": "Helpers\\EmailService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:04:42.069Z",
+              "WhenOpened": "2025-07-14T06:31:46.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T06:28:23.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T06:27:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T06:27:12.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DbSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Data\\DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Data\\DbSeeder.cs",
               "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Data\\DbSeeder.cs",
               "RelativeToolTip": "Data\\DbSeeder.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAADUBAAAAAAAAAAAAAB4AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T13:26:12.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "IFriendRequestService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IFriendRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IFriendRequestService.cs",
               "RelativeDocumentMoniker": "Services\\IFriendRequestService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IFriendRequestService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IFriendRequestService.cs",
               "RelativeToolTip": "Services\\IFriendRequestService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAwwA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:06:46.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:06:46.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "FriendRequestService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\FriendRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\FriendRequestService.cs",
               "RelativeDocumentMoniker": "Services\\FriendRequestService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\FriendRequestService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\FriendRequestService.cs",
               "RelativeToolTip": "Services\\FriendRequestService.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAA1wGsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:06:58.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:06:58.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Friendship.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Friendship.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Friendship.cs",
               "RelativeDocumentMoniker": "Models\\Friendship.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Friendship.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Friendship.cs",
               "RelativeToolTip": "Models\\Friendship.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:14:32.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:14:32.957Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:55:49.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:28:32.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FriendRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\FriendRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FriendRequestController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\FriendRequestController.cs",
+              "RelativeToolTip": "Controllers\\FriendRequestController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:04:42.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:22:20.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FriendRequest.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\FriendRequest.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\FriendRequest.cs",
               "RelativeDocumentMoniker": "Models\\FriendRequest.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\FriendRequest.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\FriendRequest.cs",
               "RelativeToolTip": "Models\\FriendRequest.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAUwBwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -360,401 +463,335 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAAQwIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:08:17.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\PostController.cs",
-              "RelativeToolTip": "Controllers\\PostController.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAQwLMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:13:40.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NotificationHub.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Hubs\\NotificationHub.cs",
-              "RelativeDocumentMoniker": "Hubs\\NotificationHub.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Hubs\\NotificationHub.cs",
-              "RelativeToolTip": "Hubs\\NotificationHub.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T20:35:13.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T13:46:34.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FriendRequestRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\FriendRequestRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\FriendRequestRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\FriendRequestRepository.cs",
-              "RelativeToolTip": "Repositories\\FriendRequestRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:07:21.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IFriendRequestRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\IFriendRequestRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IFriendRequestRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\IFriendRequestRepository.cs",
-              "RelativeToolTip": "Repositories\\IFriendRequestRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:07:11.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "JobMatchingController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\JobMatchingController.cs",
-              "RelativeDocumentMoniker": "Controllers\\JobMatchingController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\JobMatchingController.cs",
-              "RelativeToolTip": "Controllers\\JobMatchingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:13:59.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FriendRequestResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\FriendRequest\\FriendRequestResponseDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\FriendRequest\\FriendRequestResponseDto.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\FriendRequest\\FriendRequestResponseDto.cs",
-              "RelativeToolTip": "DTOs\\FriendRequest\\FriendRequestResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:07:51.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:08:17.017Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "FriendRequestCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\FriendRequest\\FriendRequestCreateDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\FriendRequest\\FriendRequestCreateDto.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\FriendRequest\\FriendRequestCreateDto.cs",
-              "RelativeToolTip": "DTOs\\FriendRequest\\FriendRequestCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Controllers\\PostController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAQwLMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:07:40.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:13:40.738Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAApwGIAAAAyAAAAAAAAAA==",
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:20:12.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T20:35:13.619Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Helpers\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "Helpers\\JwtHelper.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Helpers\\JwtHelper.cs",
-              "RelativeToolTip": "Helpers\\JwtHelper.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAowGkAAAABAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:55:49.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T13:46:34.353Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "UpdateUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\User\\UpdateUserRequest.cs",
-              "RelativeDocumentMoniker": "DTOs\\User\\UpdateUserRequest.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\User\\UpdateUserRequest.cs",
-              "RelativeToolTip": "DTOs\\User\\UpdateUserRequest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBYAAAAAAAAAAAAAAA==",
+              "Title": "FriendRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\FriendRequestRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FriendRequestRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\FriendRequestRepository.cs",
+              "RelativeToolTip": "Repositories\\FriendRequestRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T13:44:05.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:07:21.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "UserCreateRequest.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\User\\UserCreateRequest.cs",
-              "RelativeDocumentMoniker": "DTOs\\User\\UserCreateRequest.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\User\\UserCreateRequest.cs",
-              "RelativeToolTip": "DTOs\\User\\UserCreateRequest.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBAAAAABAAAAAAAAAA==",
+              "Title": "IFriendRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IFriendRequestRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IFriendRequestRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IFriendRequestRepository.cs",
+              "RelativeToolTip": "Repositories\\IFriendRequestRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T13:44:06.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:07:11.229Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IUserService.cs",
-              "RelativeToolTip": "Services\\IUserService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Title": "JobMatchingController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\JobMatchingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobMatchingController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\JobMatchingController.cs",
+              "RelativeToolTip": "Controllers\\JobMatchingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:20:55.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:13:59.542Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Title": "FriendRequestResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\FriendRequest\\FriendRequestResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FriendRequest\\FriendRequestResponseDto.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\FriendRequest\\FriendRequestResponseDto.cs",
+              "RelativeToolTip": "DTOs\\FriendRequest\\FriendRequestResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:55:25.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:07:51.238Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Title": "FriendRequestCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\FriendRequest\\FriendRequestCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FriendRequest\\FriendRequestCreateDto.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\FriendRequest\\FriendRequestCreateDto.cs",
+              "RelativeToolTip": "DTOs\\FriendRequest\\FriendRequestCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:55:35.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:07:40.32Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFEAAABKAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAApwGIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:22:20.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:20:12.717Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAgwJwAAAAAAAAAAAAAAA==",
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\User\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\User\\UpdateUserRequest.cs",
+              "RelativeToolTip": "DTOs\\User\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T13:28:32.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T13:44:05.516Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "PostCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Post\\PostCreateDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Post\\PostCreateDto.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Post\\PostCreateDto.cs",
-              "RelativeToolTip": "DTOs\\Post\\PostCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "UserCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\User\\UserCreateRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UserCreateRequest.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\User\\UserCreateRequest.cs",
+              "RelativeToolTip": "DTOs\\User\\UserCreateRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:31:11.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T13:44:06.508Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\PostService.cs",
-              "RelativeDocumentMoniker": "Services\\PostService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\PostService.cs",
-              "RelativeToolTip": "Services\\PostService.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAUwN4AAAAAAAAAAAAAAA==",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:25:13.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:20:55.879Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "PostResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Post\\PostResponseDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Post\\PostResponseDto.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Post\\PostResponseDto.cs",
-              "RelativeToolTip": "DTOs\\Post\\PostResponseDto.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBIAAAAuAAAAAAAAAA==",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:31:13.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T08:55:25.686Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "IPostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\IPostRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IPostRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\IPostRepository.cs",
-              "RelativeToolTip": "Repositories\\IPostRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:24:38.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T08:55:35.278Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "PostRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\PostRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\PostRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\PostRepository.cs",
-              "RelativeToolTip": "Repositories\\PostRepository.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Title": "PostCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Post\\PostCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Post\\PostCreateDto.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Post\\PostCreateDto.cs",
+              "RelativeToolTip": "DTOs\\Post\\PostCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:24:52.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:31:11.894Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "IPostService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IPostService.cs",
-              "RelativeDocumentMoniker": "Services\\IPostService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IPostService.cs",
-              "RelativeToolTip": "Services\\IPostService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\PostService.cs",
+              "RelativeToolTip": "Services\\PostService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAUwN4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:25:03.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:25:13.676Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "PostUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Post\\PostUpdateDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Post\\PostUpdateDto.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Post\\PostUpdateDto.cs",
-              "RelativeToolTip": "DTOs\\Post\\PostUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "PostResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Post\\PostResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Post\\PostResponseDto.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Post\\PostResponseDto.cs",
+              "RelativeToolTip": "DTOs\\Post\\PostResponseDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T14:31:15.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:31:13.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "Models\\Post.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Post.cs",
-              "RelativeToolTip": "Models\\Post.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IPostRepository.cs",
+              "RelativeToolTip": "Repositories\\IPostRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:37:55.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:24:38.865Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\AuthService.cs",
-              "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAhwFkAAAAAAAAAAAAAAA==",
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T07:56:56.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:24:52.545Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IAuthService.cs",
-              "RelativeToolTip": "Services\\IAuthService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAArwAsAAAABAAAAAAAAAA==",
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IPostService.cs",
+              "RelativeDocumentMoniker": "Services\\IPostService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IPostService.cs",
+              "RelativeToolTip": "Services\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:51:57.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:25:03.078Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "RefreshTokenRequest.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Auth\\RefreshTokenRequest.cs",
-              "RelativeDocumentMoniker": "DTOs\\Auth\\RefreshTokenRequest.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Auth\\RefreshTokenRequest.cs",
-              "RelativeToolTip": "DTOs\\Auth\\RefreshTokenRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "PostUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Post\\PostUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Post\\PostUpdateDto.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Post\\PostUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\Post\\PostUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:51:40.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T14:31:15.525Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCsAAAABAAAAAAAAAA==",
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:55:13.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T19:37:55.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAhwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:56:56.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:51:57.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RefreshTokenRequest.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:51:40.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:55:13.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "CommentResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Comment\\CommentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Comment\\CommentResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Comment\\CommentResponseDto.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Comment\\CommentResponseDto.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Comment\\CommentResponseDto.cs",
               "RelativeToolTip": "DTOs\\Comment\\CommentResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -762,24 +799,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "AuthResponse.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Auth\\AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Auth\\AuthResponse.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\AuthResponse.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Auth\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Auth\\AuthResponse.cs",
               "RelativeToolTip": "DTOs\\Auth\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T07:57:30.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T07:57:30.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Comment.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Comment.cs",
               "RelativeToolTip": "Models\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -787,11 +823,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\ServiceResponse.cs",
               "RelativeDocumentMoniker": "Repositories\\ServiceResponse.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\ServiceResponse.cs",
               "RelativeToolTip": "Repositories\\ServiceResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -799,11 +835,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Settings\\JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Settings\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Settings\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Settings\\JwtSettings.cs",
               "RelativeToolTip": "Settings\\JwtSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -813,9 +849,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "ILikeServicecs.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\ILikeServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\ILikeServicecs.cs",
               "RelativeDocumentMoniker": "Services\\ILikeServicecs.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\ILikeServicecs.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\ILikeServicecs.cs",
               "RelativeToolTip": "Services\\ILikeServicecs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -823,11 +859,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "IActivityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\IActivityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IActivityRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IActivityRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\IActivityRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\IActivityRepository.cs",
               "RelativeToolTip": "Repositories\\IActivityRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -835,11 +871,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\ICommentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ICommentRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\ICommentRepository.cs",
               "RelativeToolTip": "Repositories\\ICommentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -847,11 +883,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "LikeService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\LikeService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\LikeService.cs",
               "RelativeDocumentMoniker": "Services\\LikeService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\LikeService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\LikeService.cs",
               "RelativeToolTip": "Services\\LikeService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -859,11 +895,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 49,
               "Title": "CommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\CommentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CommentRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\CommentRepository.cs",
               "RelativeToolTip": "Repositories\\CommentRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -871,11 +907,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Country.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Country.cs",
               "RelativeDocumentMoniker": "Models\\Country.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Country.cs",
               "RelativeToolTip": "Models\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -883,11 +919,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "CommentCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Comment\\CommentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Comment\\CommentCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Comment\\CommentCreateDto.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Comment\\CommentCreateDto.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Comment\\CommentCreateDto.cs",
               "RelativeToolTip": "DTOs\\Comment\\CommentCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -895,11 +931,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "Community.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Community.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Community.cs",
               "RelativeDocumentMoniker": "Models\\Community.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\Community.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\Community.cs",
               "RelativeToolTip": "Models\\Community.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -907,11 +943,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "studybuddy.http",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\studybuddy.http",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\studybuddy.http",
               "RelativeDocumentMoniker": "studybuddy.http",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\studybuddy.http",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\studybuddy.http",
               "RelativeToolTip": "studybuddy.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -919,11 +955,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 54,
               "Title": "StudyFieldsController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\StudyFieldsController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\StudyFieldsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudyFieldsController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\StudyFieldsController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\StudyFieldsController.cs",
               "RelativeToolTip": "Controllers\\StudyFieldsController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -931,11 +967,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 55,
               "Title": "MentorshipController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\MentorshipController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\MentorshipController.cs",
               "RelativeDocumentMoniker": "Controllers\\MentorshipController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\MentorshipController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\MentorshipController.cs",
               "RelativeToolTip": "Controllers\\MentorshipController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA4wCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -943,11 +979,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 56,
               "Title": "LeaderboardController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\LeaderboardController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\LeaderboardController.cs",
               "RelativeDocumentMoniker": "Controllers\\LeaderboardController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\LeaderboardController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\LeaderboardController.cs",
               "RelativeToolTip": "Controllers\\LeaderboardController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -955,11 +991,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "CountriesController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\CountriesController.cs",
               "RelativeToolTip": "Controllers\\CountriesController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -967,11 +1003,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 58,
               "Title": "ChatController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\ChatController.cs",
               "RelativeToolTip": "Controllers\\ChatController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -979,11 +1015,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 59,
               "Title": "ActivityController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\ActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\ActivityController.cs",
               "RelativeDocumentMoniker": "Controllers\\ActivityController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\ActivityController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\ActivityController.cs",
               "RelativeToolTip": "Controllers\\ActivityController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAuwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -991,11 +1027,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 60,
               "Title": "LikeController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\LikeController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\LikeController.cs",
               "RelativeDocumentMoniker": "Controllers\\LikeController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\LikeController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\LikeController.cs",
               "RelativeToolTip": "Controllers\\LikeController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAmwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1003,11 +1039,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 61,
               "Title": "JobsController.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\JobsController.cs",
               "RelativeDocumentMoniker": "Controllers\\JobsController.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Controllers\\JobsController.cs",
               "RelativeToolTip": "Controllers\\JobsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1015,11 +1051,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 62,
               "Title": "IMentorshipService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IMentorshipService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IMentorshipService.cs",
               "RelativeDocumentMoniker": "Services\\IMentorshipService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\IMentorshipService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\IMentorshipService.cs",
               "RelativeToolTip": "Services\\IMentorshipService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1027,11 +1063,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 63,
               "Title": "MentorshipService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\MentorshipService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\MentorshipService.cs",
               "RelativeDocumentMoniker": "Services\\MentorshipService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\MentorshipService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\MentorshipService.cs",
               "RelativeToolTip": "Services\\MentorshipService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1039,11 +1075,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 64,
               "Title": "ChatRepository.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\ChatRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ChatRepository.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Repositories\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Repositories\\ChatRepository.cs",
               "RelativeToolTip": "Repositories\\ChatRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1051,11 +1087,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 65,
               "Title": "DatabaseSettings.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Settings\\DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Settings\\DatabaseSettings.cs",
               "RelativeDocumentMoniker": "Settings\\DatabaseSettings.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Settings\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Settings\\DatabaseSettings.cs",
               "RelativeToolTip": "Settings\\DatabaseSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1063,11 +1099,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "StudyField.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\StudyField.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\StudyField.cs",
               "RelativeDocumentMoniker": "Models\\StudyField.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Models\\StudyField.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Models\\StudyField.cs",
               "RelativeToolTip": "Models\\StudyField.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1075,11 +1111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 67,
               "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Auth\\RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Auth\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\DTOs\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\DTOs\\Auth\\RegisterRequest.cs",
               "RelativeToolTip": "DTOs\\Auth\\RegisterRequest.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1087,11 +1123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 68,
               "Title": "ActivityService.cs",
-              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\ActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\ActivityService.cs",
               "RelativeDocumentMoniker": "Services\\ActivityService.cs",
-              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Project\\studybuddy\\Services\\ActivityService.cs",
+              "ToolTip": "C:\\Users\\noam1\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Noam\\Studies\\Projects\\studybuddy\\server\\studybuddy\\Services\\ActivityService.cs",
               "RelativeToolTip": "Services\\ActivityService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
